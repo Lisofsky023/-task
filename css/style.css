@@ -50,7 +50,7 @@ body {
   height: 198px;
   background: #8AD191;
   margin-right: 15px;
-  background-image: url('./img/1.png');
+  background-image: url('../img/1.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -61,7 +61,7 @@ body {
   background: #8AD191;
   margin-right: 15px;
   margin-bottom: 15px;
-  background-image: url('./img/2.png');
+  background-image: url('../img/2.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -70,7 +70,7 @@ body {
   width: 160px;
   height: 198px;
   background: #8AD191;
-  background-image: url('./img/3.png');
+  background-image: url('../img/3.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -81,7 +81,7 @@ body {
   background: #8AD191;
   margin-right: 15px;
   margin-bottom: 15px;
-  background-image: url('./img/4.png');
+  background-image: url('../img/4.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -90,7 +90,7 @@ body {
   width: 160px;
   height: 198px;
   background: #8AD191;
-  background-image: url('./img/5.png');
+  background-image: url('../img/5.png');
   background-repeat: no-repeat;
   background-position: center center;
 }
